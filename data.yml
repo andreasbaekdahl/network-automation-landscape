@@ -2044,7 +2044,7 @@ categories:
 
           - name: wingpy
             project: full-open-source
-            description: Wingpy is an API client library for Python providing unified REST API to operations to various Cisco network controllers and management platforms as well as Network Source of Truths.
+            description: Wingpy is a Python library that unifies and simplifies REST access to Cisco network platforms and sources of truth.
             homepage_url: https://wingpy.net
             logo: wingpy.svg
             repo_url: https://github.com/wingmendk/wingpy
