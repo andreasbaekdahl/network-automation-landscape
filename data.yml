@@ -2042,6 +2042,21 @@ categories:
               summary_personas: "Network Engineers, DevOps Engineers, Network Automation Specialists, Software Engineers"
               summary_features: "Structured intended configuration, data models, schema validation, real-time streaming telemetry"
 
+          - name: wingpy
+            project: full-open-source
+            description: Wingpy is an API client library for Python providing unified REST API to operations to various Cisco network controllers and management platforms as well as Network Source of Truths.
+            homepage_url: https://wingpy.net
+            logo: wingpy.svg
+            repo_url: https://github.com/wingmendk/wingpy
+            extra:
+              documentation_url: https://wingpy.net
+              summary_use_case: "Network controller and management platform API operations, multi-platform support"
+              tag: 
+                - sdk
+              summary_tags: "network automation, API, REST, Cisco, Python"
+              summary_personas: "Network Engineers, Network Automation Engineers"
+              summary_features: "Multi-platforms support, simplified API operations, configuration management"
+
   - name: GoLang Eco-System
     subcategories:
       - name: Network Programmability Frameworks
